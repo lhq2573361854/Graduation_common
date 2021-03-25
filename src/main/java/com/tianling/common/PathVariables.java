@@ -8,4 +8,5 @@ package com.tianling.common;
 public interface PathVariables {
     String LOGIN = "/login";
     String PHONEMESSAGE = "/auth/phone";
+    String UNIQUE = "unique";
 }

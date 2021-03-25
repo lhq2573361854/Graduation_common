@@ -202,4 +202,8 @@ public interface ExceptionMessage {
      */
     String CREATFAILED = "创建失败";
 
+    /**
+     * unique
+     */
+    String UNIQUE_EXCEPTION = "用户名、邮箱、手机号重复";
 }
